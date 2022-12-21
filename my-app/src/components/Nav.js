@@ -27,7 +27,7 @@ function Nav() {
           </svg>
         </button>
 
-        <h1 className="text-white text-[2rem] font-bold ">Wordle</h1>
+        <h1 className="text-white text-[2rem] ml-20 font-bold justify-center flex align-center">Wordle</h1>
         <div className="right flex-row gap-2 flex">
           <button>
             <svg
